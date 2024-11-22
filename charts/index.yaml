@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  echo-values:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-22T07:42:18.180737536+01:00"
+    description: A Helm that echos all values when accessing nging
+    digest: 7b27d27f4ab4de91fa35f5df15199e673ea63ec3679350d553bc298dcde5d90f
+    name: echo-values
+    type: application
+    urls:
+    - echo-values-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-22T07:42:18.179981422+01:00"
